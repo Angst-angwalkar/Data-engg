@@ -1,0 +1,9 @@
+{
+	"name": "angwalkar-df",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3ad4f403-a9b6-42c6-9768-3180afb92a20",
+		"tenantId": "79939992-3760-4365-a5fa-8c5081f3e4de"
+	}
+}
